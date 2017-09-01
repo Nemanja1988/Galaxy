@@ -1,0 +1,232 @@
+body {
+    background-image: url("images/star-2551747_1280.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1000px;
+    margin-top: 50px;
+
+}
+
+.home-cover h1 {
+    color: red;
+    text-align: center;
+    font-size: 4em;
+    letter-spacing: 0.2em;
+    margin: 150px 0 0 0;
+
+}
+
+button {
+    margin: 50px 0 0 900px;
+
+}
+
+.box {
+    height: 400px;
+    width: 400px;
+    border: 1px solid red;
+    padding: 25px;
+    margin: 25px;
+    display: inline-block;
+    margin-left: 300px;
+
+}
+
+.box2 {
+    height: 400px;
+    width: 400px;
+    border: 1px solid red;
+    padding: 25px;
+    margin: 25px;
+    display: inline-block;
+
+}
+
+.box3 {
+    height: 400px;
+    width: 400px;
+    border: 1px solid red;
+    padding: 25px;
+    margin: 25px;
+    display: inline-block;
+
+}
+
+.boxes {
+    margin-top: 200px;
+
+}
+
+.tittle h1 {
+    color: red;
+    text-align: center;
+    font-style: italic;
+    font-size: 3em;
+    margin-bottom: 40px;
+}
+
+.box h1 {
+    color: white;
+    text-align: center;
+    margin-right: 40px;
+    font-weight: 700;
+
+}
+
+.box li {
+    color: white;
+    text-align: center;
+    list-style-type: none;
+    margin: 10px 40px 0 0;
+    font-weight: 400;
+    font-size: 2em;
+}
+
+.box2 h1 {
+    color: white;
+    text-align: center;
+    margin-right: 40px;
+    font-weight: 700;
+}
+
+.box2 li {
+    color: white;
+    text-align: center;
+    list-style-type: none;
+    margin: 10px 40px 0 0;
+    font-weight: 400;
+    font-size: 2em;
+}
+
+.box3 h1 {
+    color: white;
+    text-align: center;
+    margin-right: 40px;
+    font-weight: 700;
+}
+
+.box3 li {
+    color: white;
+    text-align: center;
+    list-style-type: none;
+    margin: 10px 40px 0 0;
+    font-weight: 400;
+    font-size: 2em;
+}
+
+.buy {
+    float: right;
+    font-size: 2em;
+    color: red;
+    margin: 20px 150px 0 0;
+}
+
+.buy:hover {
+    color: red;
+
+}
+
+nav li {
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+    font-size: 1.6em;
+    padding: 10px 50px 0 0;
+    margin: 10px 20px 0 0;
+    font-style: italic;
+
+}
+
+nav li:hover {
+    cursor: pointer;
+
+}
+
+nav ul {
+    margin-left: 1100px;
+}
+
+nav li a {
+    color: white;
+}
+
+nav li a:hover {
+    color: white;
+
+}
+
+.sendmessage {
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    color: white;
+}
+
+label {
+    color: white;
+}
+.listcontatct {
+    text-align: center;
+    margin: -20px 20px 20px 0;
+    padding: 60px;
+    color: white;
+
+}
+
+.listcontatct ul li {
+    list-style-type: none;
+    padding: 10px;
+    text-align: left;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.listcontatct h1{
+    text-align: center;
+    font-size: 2em;
+    font-weight: 600;
+    margin-bottom: 80px;
+
+
+}
+
+.contact {
+    margin-left: 200px;
+}
+
+
+.btn2 {
+   margin-left: 80px;
+
+}
+
+.copyright {
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
+
+.scrollToTop{
+    width:100px;
+    height:130px;
+    padding:10px;
+    text-align:center;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    position:fixed;
+    top:75px;
+    right:40px;
+   margin-top: 800px;
+    font-size: 1.3em;
+    background-attachment: fixed;
+
+
+
+}
+.scrollToTop:hover{
+    text-decoration:none;
+    color: white;
+}
